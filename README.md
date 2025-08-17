@@ -84,7 +84,7 @@ streamlit run app.py
 
 ##  Results
 
-* Achieved high accuracy (>90%) on IMDB test set
+* Achieved high accuracy (>95%) on IMDB test set
 * Model generalizes well to unseen reviews
 
 ---
