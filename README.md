@@ -4,7 +4,7 @@ This project implements a **Sentiment Analysis model** using a fine-tuned **Dist
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 * Built a **binary text classification** model using **Hugging Face Transformers** and **PyTorch**.
 * Used **DistilBERT** (a smaller, faster version of BERT) for fine-tuning on IMDB reviews.
@@ -16,7 +16,7 @@ This project implements a **Sentiment Analysis model** using a fine-tuned **Dist
 <img src="sa+nlp1.png" alt="Brain Tumor Detection" width="700">
 <img src="sa+nlp2.png" alt="Brain Tumor Detection" width="700">
 
-## 📂 Dataset
+##  Dataset
 
 * Dataset: **IMDB Movie Reviews** (50,000 labeled reviews).
 * Balanced with **25,000 positive** and **25,000 negative** reviews.
@@ -24,7 +24,7 @@ This project implements a **Sentiment Analysis model** using a fine-tuned **Dist
 
 ---
 
-## ⚙️ Model Workflow
+##  Model Workflow
 
 1. **Data Preprocessing**
 
@@ -48,7 +48,7 @@ This project implements a **Sentiment Analysis model** using a fine-tuned **Dist
 
 ---
 
-## 🚀 Installation & Usage
+##  Installation & Usage
 
 ### 1. Clone the repository
 
@@ -71,7 +71,7 @@ streamlit run app.py
 
 ---
 
-## 🖥️ Streamlit App
+##  Streamlit App
 
 * Input: Any **movie review text**
 * Output:
@@ -82,14 +82,14 @@ streamlit run app.py
 
 ---
 
-## 📊 Results
+##  Results
 
 * Achieved high accuracy (>90%) on IMDB test set
 * Model generalizes well to unseen reviews
 
 ---
 
-## 🔮 Future Work
+##  Future Work
 
 * Extend to **multiclass sentiment** (e.g., star ratings 1–5)
 * Use **larger transformer models** like RoBERTa or BERT-large
@@ -97,14 +97,14 @@ streamlit run app.py
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Python**
 * **PyTorch**
 * **Hugging Face Transformers**
 * **Streamlit**
 ---
-## 📢 Author
+##  Author
 
 👨‍💻 **Sarathkumar Soundarrajan**
 📌 LinkedIn: (https://www.linkedin.com/in/sarathkumar271002/))
